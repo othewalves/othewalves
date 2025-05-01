@@ -30,8 +30,10 @@ Sou apaixonado por tecnologia, café e resolver pepino com código. 😄 Graduad
   />
 </p>
 
+
 ### 🧠 Em constante evolução:
 > “Código bom é código que a gente consegue melhorar amanhã.”
+
 
 ### 📌 Alguns fatos aleatórios:
 - 🧑‍🍳 Cozinho melhor do que debugo (às vezes);
