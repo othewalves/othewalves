@@ -4,7 +4,6 @@
 Sou apaixonado por tecnologia, café e resolver pepino com código. 😄 Graduado em **Análise e Desenvolvimento de Sistemas** pela FATEC de Mogi das Cruzes e explorando o mundo do **desenvolvimento web** & **mobile** com foco em **front-end**, mas também me aventuro no back-end quando o bicho pega.
 
 🚀 [Portfólio](https://devmatheusalves.vercel.app/)
-
 🔗 [Linkedin](www.linkedin.com/in/dev-matheus-alves)
 
 ### 🤖 Stack atual
