@@ -5,13 +5,13 @@ Sou apaixonado por tecnologia, café e resolver pepino com código. 😄 Graduad
 🚀 [Portfólio](https://devmatheusalves.vercel.app/)
 🔗 [Linkedin](www.linkedin.com/in/dev-matheus-alves)
 
-### 🤖 Tecnologias
-- ⚛️ React / Next.js
+### 🤖 Stack atual
+- ⚛️ React / Next.js / React Native
 - 🧪 TypeScript
 - 🎨 Tailwind CSS + ShadCN
-- 🔧 NestJS / Express
-- 🗃️ PostgreSQL
-- 🔄 Redux, Zustand e outros gerenciadores de estado doidos
+- 🔧 NestJS / Express / Prisma
+- 🗃️ PostgreSQL 
+- 🔄 Context API / Redux / Zustand e outros gerenciadores de estado doidos
 
 ### 📊 Estatísticas
 <p class="flex flex-wrap">
