@@ -7,12 +7,12 @@ Sou apaixonado por tecnologia, café e resolver pepino com código. 😄 Graduad
 🔗 [Linkedin](www.linkedin.com/in/dev-matheus-alves)
 
 ### 🤖 Stack atual
-- ⚛️ React / Next.js / React Native
-- 🧪 TypeScript
-- 🎨 Tailwind CSS + ShadCN
+- Angular / Angular Material / Typescript
+- ⚛️ React / Next.js
+- 🧪 TypeScript 
+- 🎨 SCSS / Bootstrap /Tailwind CSS + ShadCN
 - 🔧 NestJS / Express / Prisma
 - 🗃️ PostgreSQL 
-- 🔄 Context API / Redux / Zustand e outros gerenciadores de estado doidos
 
 ### 📊 Estatísticas
 <p class="flex flex-wrap">
